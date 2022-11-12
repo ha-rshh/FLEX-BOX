@@ -10,8 +10,7 @@ header.nav{
     padding: 0vh 15vw;
     height: 11vh;
     color:black;
-    /* background-color: aquamarine; */
-    justify-content: space-between;
+justify-content: space-between;
     font-family: 'Poppins', sans-serif;
 }
 .heading{
